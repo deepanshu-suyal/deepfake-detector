@@ -169,16 +169,6 @@ The application will open in your default browser at `http://localhost:8501`.
 4. Start training
 5. Export trained model
 
-## 📊 Model Performance
-
-| Metric | Value |
-|--------|-------|
-| Accuracy | 95.2% |
-| Precision | 94.8% |
-| Recall | 95.5% |
-| F1-Score | 95.1% |
-| AUC-ROC | 98.2% |
-
 ## 🔬 Detection Methods
 
 ### 1. CNN-based Classification
@@ -225,4 +215,4 @@ This project is licensed under the MIT License.
 
 ---
 
-<p align="center">Built with ❤️ using Python, PyTorch & Streamlit</p>
+<p align="center">Built with ❤️ using Python , Streamlit</p>
